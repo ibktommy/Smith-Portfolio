@@ -5,7 +5,7 @@ I found the website template originally online and I coded it just to test my we
 It has animations, it is responsive and I created the hamburger menu using pure CSS.
 ## Overview
 
-<a href="https://app.netlify.com/sites/smith-portfolio-atomdev/overview">
+<a href="https://smith-portfolio-atomdev.netlify.app/">
       PROJECT Website
     </a>
 
